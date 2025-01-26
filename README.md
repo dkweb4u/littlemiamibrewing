@@ -15,9 +15,9 @@ Plugins Used
 
 Installation:
 
-1. Theme Zip file
+1. Theme Zip file  (file size 11mb because of videos)
 2. elementor-kit.zip
-WordPress > Appearance > theme > upload theme.zip
+WordPress > Appearance > theme > upload littlemiamibrewing.zip
 Elementor > tools > import > upload elementor-kit.zip
 
 Note: Elementor Menus max export is 20
