@@ -1,6 +1,6 @@
 Theme file:
 
-Theme: Contains code of header, footer, mainslider, dk theme setup 
+Theme: Contains code of header, footer, mainslider, dk theme setup Plugin
 
 Its Elementor Supported Theme
 
