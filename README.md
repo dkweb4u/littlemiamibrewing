@@ -20,4 +20,4 @@ Installation:
 WordPress > Appearance > theme > upload littlemiamibrewing.zip
 Elementor > tools > import > upload elementor-kit.zip
 
-Note: Elementor Menus max export is 20
+Note: Elementor Menus max export is 20 and Need to add menus and background images in the videos from elementor section.
